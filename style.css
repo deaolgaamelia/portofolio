@@ -1,0 +1,53 @@
+.home{
+    height: 100vh;
+    padding: 60px;
+    background-color: rgb(76, 235, 249);
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.about{
+    padding: 20px;
+    background-color: rgb(76, 235, 249);
+    animation-delay: 0.5s;
+}
+.hobi {
+    background-color: rgb(76, 235, 249);
+}
+.contact{
+    background-color: rgb(76, 235, 249);
+    padding: 10px;
+}
+.project {
+    height: 100vh;
+    padding: 10px;
+    background-color: rgb(76, 235, 249);
+    text-align: center;
+    border: white;
+    
+}
+.project h1 {
+  font-size: 36px;
+  margin-top: 20vh; /* Atur nilai margin-top sesuai kebutuhan */
+  margin-bottom: 20vh; /* Atur nilai margin-bottom sesuai kebutuhan */
+  text-align: center;
+}
+
+
+.project button {
+    font-size: 48px;
+    padding: 35px 40px;
+    border-radius: 20px;
+}
+.col-md-8 a {
+  color: black; /* Warna putih */
+  text-decoration: none; /* Menghilangkan garis bawah pada tautan */
+    font-size: 30px;
+    transition: color 0.3s ease-in-out;
+}
+
+.col-md-8 a:hover {
+  color: rgb(23, 135, 247); /* Warna abu-abu muda saat hover */
+}
+
+
+
